@@ -42,3 +42,9 @@
 		+ Private and public cache: với public thì nó có thể cache ở bất cứ đâu, còn private thì chỉ có tác dụng với user hiện tại.
 		+ Expiration: thời gian mà cache được refresh lại từ đầu.
 		+ Validation: cache sẽ được verify trước khi sự dụng chúng.
+	- Http response status code:
+		+ Informational responses (100–199)
+		+ Successful responses (200–299)
+		+ Redirection messages (300–399)
+		+ Client error responses (400–499)
+		+ Server error responses (500–599)
